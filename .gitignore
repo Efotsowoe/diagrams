@@ -31,3 +31,4 @@ website/package-lock.json
 .swp
 *.whl
 dist/
+config.bat
